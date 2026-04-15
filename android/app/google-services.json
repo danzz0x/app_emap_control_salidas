@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "58006040286",
+    "project_id": "controlemap-7bbc3",
+    "storage_bucket": "controlemap-7bbc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58006040286:android:a1f3a35a3efe57d0d65c4f",
+        "android_client_info": {
+          "package_name": "com.example.control_emap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58006040286-vpuhkfp7uiprkv8ctkvl50nuht403fcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.control_emap",
+            "certificate_hash": "61a17a095fb55ed8cfcb16327905fdda7173d854"
+          }
+        },
+        {
+          "client_id": "58006040286-5jihsurp81ta3cj5hc5e21al2ofacp1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHu4g_Kg1i7gczD76YaMPIotjIw2j040"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58006040286-5jihsurp81ta3cj5hc5e21al2ofacp1o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58006040286-n5s3umflt7gku1ise23b2hogad9tmfja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.controlEmap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
