@@ -89,9 +89,4 @@ Aquí es donde decides quién sale y quién no.
 
 ---
 
-## Información del Proyecto
 
-- **Producto:** Control EMAP v1.0  
-- **Desarrollador:** José Daniel Basilio Nina  
-- **Institución:** UPDS  
-- **Contacto:** basiliojosedaniel@gmail.com  
